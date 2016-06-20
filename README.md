@@ -20,15 +20,11 @@ Spark + ML
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |  6/3  | 1. Getting Started & 2. Your First Program                 | 안동환 |                |
-|  2   |  6/20 | 3. Types                                                   | 오창민 |                |
-|  3   |       | 4. Variables                                               |        |                |
-|  4   |       | 5. Control Structures                                      |        |                |
-|  5   |       | 6. Arrays, Slices and Maps                                 |        |                |
-|  6   |       | 7. Functions                                               |        |                |
-|  7   |       | 8. Pointers                                                |        |                |
-|  8   |       | 9. Structs and Interfaces                                  |        |                |
-|  9   |       | 10. Packages                                               |        |                |
-|  10  |       | 12. Testing                                                |        |                |
-|  11  |       | 13. The Core Packages & Next Steps                         |        |                |
+|  2   |  6/20 | 3. Types & 4. Variables                                    | 오창민 |                |
+|  3   |  6/27 | 5. Control Structures & 6. Arrays, Slices and Maps         | 김무성 |                |
+|  4   |  7/4  | 7. Functions & 8. Pointers                                 | 유주원 |                |
+|  5   |  7/11 | 9. Structs and Interfaces & 10. Concurrency                | 안동환 |                |
+|  6   |  7/18 | 11. Packages & 12. Testing                                 | 오창민 |                |
+|  7   |  7/25 | 13. The Core Packages & Next Steps                         | 김무성 |                |
 
 
