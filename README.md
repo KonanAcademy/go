@@ -23,7 +23,7 @@
 |  3   |  6/27 | 5. Control Structures & 6. Arrays, Slices and Maps         | 김무성 |                |
 |  4   |  7/4  | 7. Functions & 8. Pointers                                 | 유주원 |                |
 |  5   |  7/11 | 9. Structs and Interfaces & 10. Concurrency                | 안동환 |                |
-|  6   |  7/18 | 11. Packages & 12. Testing                                 | 오창민 |                |
-|  7   |  7/25 | 13. The Core Packages & Next Steps                         | 김무성 |                |
+|  6   |  7/18 | 11. Packages & 12. Testing                                 | 오창민 |   * 비고 : 휴가 & 회식 등으로 다음 발표는 9월입니다.             |
+|  7   |  9/5 | 13. The Core Packages & Next Steps                         | 김무성 |                |
 
 
